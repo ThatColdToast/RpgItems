@@ -1,0 +1,5 @@
+name: RpgItems
+version: '${version}'
+main: com.thatcoldtoast.rpgitems.RpgItems
+api-version: 1.19
+authors: [ ThatColdToast ]
